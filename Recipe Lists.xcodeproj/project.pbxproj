@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF4A2DB0262437DE009849C8 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF4A2DAF262437DE009849C8 /* RecipeTabView.swift */; };
 		DFA7712126237AF60022F226 /* Recipe_ListsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA7710E26237AF50022F226 /* Recipe_ListsApp.swift */; };
 		DFA7712226237AF60022F226 /* Recipe_ListsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA7710E26237AF50022F226 /* Recipe_ListsApp.swift */; };
 		DFA7712326237AF60022F226 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA7710F26237AF50022F226 /* RecipeListView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF4A2DAF262437DE009849C8 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		DFA7710E26237AF50022F226 /* Recipe_ListsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_ListsApp.swift; sourceTree = "<group>"; };
 		DFA7710F26237AF50022F226 /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
 		DFA7711026237AF60022F226 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 		DFA7713326237B7D0022F226 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				DF4A2DAF262437DE009849C8 /* RecipeTabView.swift */,
 				DFA7710F26237AF50022F226 /* RecipeListView.swift */,
 				DFA7714A2623874A0022F226 /* RecipeDetailView.swift */,
 			);
@@ -246,6 +249,7 @@
 				DFA7713D26237D300022F226 /* Recipe.swift in Sources */,
 				DFA7714B2623874A0022F226 /* RecipeDetailView.swift in Sources */,
 				DFA7714126237E9B0022F226 /* RecipeModel.swift in Sources */,
+				DF4A2DB0262437DE009849C8 /* RecipeTabView.swift in Sources */,
 				DFA7712326237AF60022F226 /* RecipeListView.swift in Sources */,
 				DFA7712126237AF60022F226 /* Recipe_ListsApp.swift in Sources */,
 				DFA77147262380A80022F226 /* DataService.swift in Sources */,
